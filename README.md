@@ -1,7 +1,7 @@
 # Translator
 
  # FEATURES 
-
++ LANGUAGE SUPPORT 
  :+1:
  <code style="color
   :red">LANGUAGE SUPPORT </code>
