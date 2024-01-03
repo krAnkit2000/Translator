@@ -1,9 +1,10 @@
 # Translator
 
  # FEATURES 
-+ LANGUAGE SUPPORT 
+
+
  :+1:
- <code style="color
+ <text style="color
   :red">LANGUAGE SUPPORT </code>
 Amharic",
 Arabic",
