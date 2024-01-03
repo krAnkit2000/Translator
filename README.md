@@ -2,7 +2,7 @@
 
  # FEATURES 
 
- @octocat :+1: LANGUAGE SUPPORT `#0969DA`
+ :+1: LANGUAGE SUPPORT `#0969DA`
 Amharic",
 Arabic",
 Bielarus",
