@@ -2,7 +2,8 @@
 
  # FEATURES 
 
- :+1: +LANGUAGE SUPPORT `#0969DA`
+ :+1:
+ <code style="color : Aqua">LANGUAGE SUPPORT </code>
 Amharic",
 Arabic",
 Bielarus",
