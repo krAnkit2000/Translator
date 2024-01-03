@@ -3,7 +3,8 @@
  # FEATURES 
 
  :+1:
- <code style="color : red">LANGUAGE SUPPORT </code>
+ <code style="color
+  :red">LANGUAGE SUPPORT </code>
 Amharic",
 Arabic",
 Bielarus",
