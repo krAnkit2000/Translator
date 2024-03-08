@@ -87,7 +87,7 @@ background-image: url(https://img.freepik.com/free-psd/media-journalism-sales-ba
   border-left: 1px solid #ccc;
 }
 .controls .row select{
-  color: white;
+  color: rgb(245, 96, 96);
   border: none;
   outline: none;
   font-size: 18px;
